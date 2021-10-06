@@ -1,0 +1,4 @@
+﻿  PlayerMusic.c
+C:\Users\mfrdi\OneDrive\Documentos\Faculdade\Trabalhos em C\PlayerMusic\PlayerMusic\PlayerMusic.c(99,9): warning C4101: 'indice': variável local não referenciada
+C:\Users\mfrdi\OneDrive\Documentos\Faculdade\Trabalhos em C\PlayerMusic\PlayerMusic\PlayerMusic.c(96,10): warning C4101: 'nome': variável local não referenciada
+  PlayerMusic.vcxproj -> C:\Users\mfrdi\OneDrive\Documentos\Faculdade\Trabalhos em C\PlayerMusic\Debug\PlayerMusic.exe
